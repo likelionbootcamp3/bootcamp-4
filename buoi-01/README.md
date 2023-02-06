@@ -3,7 +3,8 @@
 ## I. Introduction
 
 1. What is HTML?
-   HTML stands for HyperText Markup Language and is a standard markup language used to create and structure web content. HTML defines the structure and content of a web page, using a set of tags and attributes to describe the text, images, links, and other elements that make up a webpage. HTML is used in conjunction with other technologies, such as CSS and JavaScript, to create dynamic and interactive web pages.
+
+- HTML stands for HyperText Markup Language and is a standard markup language used to create and structure web content. HTML defines the structure and content of a web page, using a set of tags and attributes to describe the text, images, links, and other elements that make up a webpage. HTML is used in conjunction with other technologies, such as CSS and JavaScript, to create dynamic and interactive web pages.
 
 2. Purposes of HTML
 
@@ -398,7 +399,7 @@ Web accessibility refers to making web content and web applications usable by pe
 <button type="button">Click Me</button>
 ```
 
-## VIII. Exercises
+## IX. Exercises
 
 A portfolio wesbites should include the following elements:
 
