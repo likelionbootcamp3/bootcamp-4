@@ -125,7 +125,7 @@ Semantic elements are HTML elements that have a specific meaning and are used to
 
 ![Semantic Website Layout](https://res.cloudinary.com/practicaldev/image/fetch/s--oxQNUXvS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/mpjv5mkzc9bc2zsns3ex.png)
 
-1. <header>: used to define the header of a document or section.
+1. `<header>`: used to define the header of a document or section.
 
 ```html
 <header>
@@ -137,7 +137,7 @@ Semantic elements are HTML elements that have a specific meaning and are used to
 </header>
 ```
 
-2. <main>: used to define the main content of a document.
+2. `<main>`: used to define the main content of a document.
 
 ```html
 <main>
@@ -146,7 +146,7 @@ Semantic elements are HTML elements that have a specific meaning and are used to
 </main>
 ```
 
-3. <article>: used to define a self-contained composition in a document.
+3. `<article>`: used to define a self-contained composition in a document.
 
 ```html
 <article>
@@ -155,7 +155,7 @@ Semantic elements are HTML elements that have a specific meaning and are used to
 </article>
 ```
 
-4. <section>: used to define a section in a document.
+4. `<section>`: used to define a section in a document.
 
 ```html
 <section>
@@ -164,7 +164,7 @@ Semantic elements are HTML elements that have a specific meaning and are used to
 </section>
 ```
 
-5. <aside>: used to define content aside from the main content.
+5. `<aside>`: used to define content aside from the main content.
 
 ```html
 <aside>
@@ -177,7 +177,7 @@ Semantic elements are HTML elements that have a specific meaning and are used to
 </aside>
 ```
 
-6. <footer>: used to define the footer for a document or section.
+6. `<footer>`: used to define the footer for a document or section.
 
 ```html
 <footer>
@@ -189,13 +189,13 @@ Semantic elements are HTML elements that have a specific meaning and are used to
 
 Multimedia elements are HTML elements that allow you to embed audio, video, images, and other multimedia content into a web page. These multimedia elements allow you to enrich the content of your web pages and provide a more engaging user experience for your visitors.
 
-1. <img>: used to embed an image into a web page.
+1. `<img>`: used to embed an image into a web page.
 
 ```html
 <img src="image.jpg" alt="An Example Image" />
 ```
 
-2. <audio>: used to embed an audio file into a web page.</audio>
+2. `<audio>`: used to embed an audio file into a web page.</audio>
 
 ```html
 <audio controls>
@@ -204,7 +204,7 @@ Multimedia elements are HTML elements that allow you to embed audio, video, imag
 </audio>
 ```
 
-3. <video>: used to embed a video file into a web page.
+3. `<video>`: used to embed a video file into a web page.
 
 ```html
 <video controls width="320" height="240">
@@ -213,7 +213,7 @@ Multimedia elements are HTML elements that allow you to embed audio, video, imag
 </video>
 ```
 
-4. <figure> and <figcaption>: used to embed images and provide a caption for them.
+4. `<figure>` and `<figcaption>`: used to embed images and provide a caption for them.
 
 ```html
 <figure>
@@ -222,7 +222,7 @@ Multimedia elements are HTML elements that allow you to embed audio, video, imag
 </figure>
 ```
 
-5. <picture >: used to provide different images for different display conditions.
+5. `<picture >`: used to provide different images for different display conditions.
 
 ```html
 <picture>
@@ -343,11 +343,11 @@ HTML tables are used to represent tabular data on a web page. They allow you to 
 </table>
 ```
 
-- <table>: used to define the table and its properties
-- <thead>: contains the header row
-- <tbody>: contains the data rows
-- <tr>: represent for each row
-- <td>: represent for each cell
+- `<table>`: used to define the table and its properties
+- `<thead>`: contains the header row
+- `<tbody>`: contains the data rows
+- `<tr>`: represent for each row
+- `<td>`: represent for each cell
 
 **Note:** The header row is defined using <th> elements instead of <td> elements, as header cells are typically displayed differently from regular data cells.
 
